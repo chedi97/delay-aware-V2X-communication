@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "packet_size.h": "c",
-        "get_configuration.h": "c"
-    }
-}
