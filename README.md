@@ -28,8 +28,7 @@ sudo ./ server
 ```
 -s [NUM] --packet_size            set the packet size to be sent and received
 -a       --main_affinity= N       run main thread on processor #N
-	                      			 	  sending thread will run on the same processor
-	                                if -b is not specified
+	                    	  sending thread will run on the same processor if -b is not specified	                          
 -b       --thread_affinity= N     run sending thread on precessor #N
 -y POLI  --policy= POLI           policy of realtime thread, POLI may be fifo(default) or rr
                                   format: --policy=fifo(default) or --policy=rr
