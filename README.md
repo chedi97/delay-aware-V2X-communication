@@ -37,8 +37,8 @@ sudo ./ server
 -t       --period= PER            set period duration in ms
                                   default period is 10 ms 
 -r       --run_time= RUN          set run_time duration in ms
--h	     --histogram         	    display histogram
--h HIS   --histogram=HIS     	    set HIS to 1 to display CDF histogram
+-h	 --histogram        	  display histogram
+-h HIS   --histogram=HIS     	  set HIS to 1 to display CDF histogram
 ```
 
 
