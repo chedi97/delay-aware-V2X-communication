@@ -42,9 +42,12 @@ sudo ./ server
 ```
 ### Some results 
 
-Latency with no stress
+## Latency with no stress
+
 ![](images/no_stress.bmp)
-Latency with stress
+
+## Latency with stress
+
 ![](images/stress.bmp)
 
 
