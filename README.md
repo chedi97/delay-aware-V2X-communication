@@ -40,5 +40,9 @@ sudo ./ server
 -h	 --histogram        	  display histogram
 -h HIS   --histogram=HIS     	  set HIS to 1 to display CDF histogram
 ```
+### Results 
+
+
+
 
 
