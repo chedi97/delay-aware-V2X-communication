@@ -1,6 +1,4 @@
 /*
-Coded by Hyunjae Lee and Jihun Lim
-
 This header file is for getting NIC_INDEX of Network device
 The user can get NIC_INDEX value using get_nic_index() function
 */

@@ -1,5 +1,4 @@
 /*
-Coded by Hyunjae Lee and Jihun Lim
 
 This header file is for getting the values of configuration.txt
 

@@ -40,14 +40,5 @@ sudo ./ server
 -h	 --histogram        	  display histogram
 -h HIS   --histogram=HIS     	  set HIS to 1 to display CDF histogram
 ```
-### Some results 
-
-## Latency with no stress
-
-![](images/no_stress.bmp)
-
-## Latency with stress
-
-![](images/stress.bmp)
 
 
