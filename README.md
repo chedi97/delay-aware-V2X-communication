@@ -4,7 +4,6 @@
 ```
  Linux 
  Patching your kernel to support IEEE802.11p (patch file is available in the resource directory)
- Having appropriate hardware supporting 5.9GHZ frequency  
 ```
 ### Installing
 
